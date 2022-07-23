@@ -1,4 +1,5 @@
-# How to map in DayZ by Miguel Gargallo
-How to map in DayZ by Miguel Gargallo
+# Cómo mapear en DayZ con L3DT y Terrain Builder por Miguel Gargallo
+Cómo mapear en DayZ con L3DT y Terrain Builder por Miguel Gargallo
+Ejemplo, París:
 
-<Folder System> Folder System
+01 Diseño y estructura de directorios para mapear en DayZ con L3DT y Terrain Builder por Miguel Gargallo.
