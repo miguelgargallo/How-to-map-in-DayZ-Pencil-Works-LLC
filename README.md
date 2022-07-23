@@ -15,10 +15,12 @@ https://www.reddit.com/r/armadev/comments/q1edko/help_creating_functions_in_conf
 https://community.bistudio.com/wiki/DayZ:Surfaces
 ```
 ## 99 Fuentes útiles usadas
+### Repo de código
 ```
 https://dayzexplorer.zeroy.com
 ```
+### Terrain Tutorial
 ```
 https://community.bistudio.com/wiki/Mondkalb%27s_Terrain_Tutorial#Being_Done
 ```
-0.0.5b Fuentes
+0.0.5c Fuentes
