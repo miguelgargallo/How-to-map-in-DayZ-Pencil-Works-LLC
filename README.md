@@ -17,14 +17,6 @@ https://www.reddit.com/r/armadev/comments/q1edko/help_creating_functions_in_conf
 ```
 https://community.bistudio.com/wiki/DayZ:Surfaces
 ```
-### Bot_ClientScripts
-```
-https://forum.ragezone.com/f866/dayz-standalone-bots-1180861/index18.html
-```
-### Bot_ClientScripts Mega Download file
-```
-https://mega.nz/file/D7BhyYBQ#xnjJriebu_fLLEFzUxdEZQpU3U5zSEM4Z6OWUYI0EFk
-```
 
 
 ## 99 Fuentes útiles usadas
