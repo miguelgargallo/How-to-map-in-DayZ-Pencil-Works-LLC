@@ -14,3 +14,6 @@ https://www.reddit.com/r/armadev/comments/q1edko/help_creating_functions_in_conf
 ```
 https://dayzexplorer.zeroy.com
 ```
+```
+https://community.bistudio.com/wiki/Mondkalb%27s_Terrain_Tutorial#Being_Done
+```
